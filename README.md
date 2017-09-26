@@ -9,6 +9,8 @@
 - `$ReadOnlyArray`
 - `$Keys`, `$Values`
 - `$PropertyType<T, 'x'>`: extract the type of the property `'x'` off of the type `T`
+- `$Shape`
+- `$Diff`
 
 ## Usage with React
 
